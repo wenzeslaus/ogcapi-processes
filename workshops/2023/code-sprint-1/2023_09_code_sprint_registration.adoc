@@ -21,9 +21,9 @@ Once registered, please sign up to the https://gitter.im/[Gitter] networking pla
 | MariaDB (formerly CubeWerx Inc.)
 | https://github.com/pvretano[pvretano]
 
-| FirstName LastName
-| Affiliation
-| https://example.org[GitHub Handle]
+| Vaclav (Vashek) Petras
+| North Carolina State University
+| https://github.com/wenzeslaus[wenzeslaus]
 
 | FirstName LastName
 | Affiliation
